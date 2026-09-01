@@ -2,6 +2,27 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <item>
+            <title>EasyColor 1.0.2</title>
+            <pubDate>Tue, 01 Sep 2026 12:43:10 +0000</pubDate>
+            <sparkle:version>1.0.2</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>What's new in 1.0.2</h3><ul><li>Track clicks now find an empty spot in the row, so tracks with extra controls get coloured reliably</li><li>Runs stop cleanly when Logic is showing a dialog instead of clicking into it</li><li>Track names with quotes or line breaks no longer break the colour-conflict prompt</li><li>Colour rules: the longest match wins, and your own rule beats a built-in one</li><li>Marker drafts are remembered between launches</li><li>Feedback can attach files</li><li>Buy and trial links carry your licence key, so buying while subscribed cancels the old plan automatically</li></ul>]]></description>
+            <enclosure url="https://github.com/bereggg/easycolor-releases/releases/download/v1.0.2/EasyColor-1.0.2.zip"
+                       type="application/octet-stream"
+                       sparkle:edSignature="jN/nsTQVxrsXfT0Zll+V1qrvQqc7XY2ScbkrAlWng94uDsI3HFRoBT4s+hGdqZ5rEFhQKaOYmjsqrSSzQEqSBg==" length="80500220" />
+            <sparkle:deltas>
+                <enclosure url="https://github.com/bereggg/easycolor-releases/releases/download/v1.0.2/EasyColor-1.0.1-1.0.2.delta"
+                           sparkle:deltaFrom="1.0.1"
+                           type="application/octet-stream"
+                           sparkle:edSignature="XVN8iTBKIy90u648SV44inhXyiuyo1RsQAKMebXRJZD/RVfb1Uv8j8n9Rd6xN5EEd2pwUk9g7qxNt8mxkhrZAg==" length="632454" />
+                <enclosure url="https://github.com/bereggg/easycolor-releases/releases/download/v1.0.2/EasyColor-1.0.0-1.0.2.delta"
+                           sparkle:deltaFrom="1.0.0"
+                           type="application/octet-stream"
+                           sparkle:edSignature="AApvVOIUU1Av6/fy1DMwtloSPxHHGKMXPtl9nzxsl6DXV1aO5YMrmVpErAlFrKLj2gG2DcsgyPsiKRiMW7piCQ==" length="878570" />
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>EasyColor 1.0.1</title>
             <pubDate>Thu, 27 Aug 2026 15:32:17 +0000</pubDate>
             <sparkle:version>1.0.1</sparkle:version>
