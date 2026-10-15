@@ -2,6 +2,31 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <item>
+            <title>EasyColor 1.0.3</title>
+            <pubDate>Thu, 15 Oct 2026 16:02:03 +0000</pubDate>
+            <sparkle:version>1.0.3</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>What's new in 1.0.3</h3><ul><li>Keyword-free auto colouring</li></ul>]]></description>
+            <enclosure url="https://github.com/bereggg/easycolor-releases/releases/download/v1.0.3/EasyColor-1.0.3.zip"
+                       type="application/octet-stream"
+                       sparkle:edSignature="MypBFNrW9R0/Lp1LcRslEeXqVJLCI3SaTgTmZzFtseBnlu6om0Iyaand5sdmkJmosE0rpXZ+TUw/xNOfaI0aCQ==" length="78919786" />
+            <sparkle:deltas>
+                <enclosure url="https://github.com/bereggg/easycolor-releases/releases/download/v1.0.3/EasyColor-1.0.2-1.0.3.delta"
+                           sparkle:deltaFrom="1.0.2"
+                           type="application/octet-stream"
+                           sparkle:edSignature="uppTAMT87dlB+gfv1DEWpm456KPvd5Vg+PYWhl8Rd+v8nzsl9r1eERixOeruqcF6eKV7R7qiNiS/v+22jeF5Bg==" length="758642" />
+                <enclosure url="https://github.com/bereggg/easycolor-releases/releases/download/v1.0.3/EasyColor-1.0.1-1.0.3.delta"
+                           sparkle:deltaFrom="1.0.1"
+                           type="application/octet-stream"
+                           sparkle:edSignature="ft9xZlmkyogxPVX6cMhES1R8tpE40N1TveZaugPtfIfhEbBN0zSUyI1Y4zts1XRoiK2KB26hrZ7A08rfEpVIAQ==" length="804982" />
+                <enclosure url="https://github.com/bereggg/easycolor-releases/releases/download/v1.0.3/EasyColor-1.0.0-1.0.3.delta"
+                           sparkle:deltaFrom="1.0.0"
+                           type="application/octet-stream"
+                           sparkle:edSignature="rxuUOhL2DYh6HRlvPp0Aa6HVH7t8X35n4aY9ekH5n0qMzk/8087/IqvPrvpmbY3fVwSTNVp3xxKoikWjUHYfDQ==" length="906558" />
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>EasyColor 1.0.2</title>
             <pubDate>Tue, 01 Sep 2026 12:43:10 +0000</pubDate>
             <sparkle:version>1.0.2</sparkle:version>
